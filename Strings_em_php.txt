@@ -1,7 +1,0 @@
-********** Escape Sequences *********
-
-\n -> Nova linha
-\t -> Tabulação horizontal
-\\ -> Barra invertida
-\$ -> Sinal de cifrão
-\u{} ->Codepoint Unicode
