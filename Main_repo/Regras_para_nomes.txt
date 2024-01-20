@@ -1,0 +1,15 @@
+**********REGRAS PARA NOMES IDENTIFICADORES****************
+
+1- Variáveis sempre começam com o símbolo '$'
+
+2- O segundo pode ser letra ou o símbolo '_'
+
+3- Aceita caracteres [a-z], [A_Z], [0-9], [_]
+
+4- Aceita carcteres da tabela ASCII a partir de 128
+
+5- Aceita caracteres acentuados como 'á', 'õ', 'ç'
+
+6- A linguagem é 'case sensitive' em relação aos nomes
+
+7- Nomes especiais como $this não podem ser usados
